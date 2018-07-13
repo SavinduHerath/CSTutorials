@@ -1,0 +1,11 @@
+*.vs
+*.user
+*.dll
+*.pdb
+*.json
+*.cache
+*.txt
+*.csproj
+*.AssemblyInfo.cs
+*.targets
+*.props
